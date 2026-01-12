@@ -1,0 +1,15 @@
+# Go build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace
+vendor/
+
+# Local tooling
+.DS_Store
+.tmp/
+.gocache/
